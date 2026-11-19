@@ -1,22 +1,25 @@
 <!-- Modern GitHub Profile README for arpitk007 -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Arpit Kushwaha</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI Enthusiast | 🎨 UI Designer</h3>
+<h3 align="center">☕ Java Full Stack Developer @ VideoGate Technologies | 🌱 Spring Boot · Angular</h3>
 
 ---
 
 ### 🚀 About Me  
-🌱 I’m a developer passionate about crafting **scalable, intelligent, and visually appealing web applications**.  
-💡 Skilled in **MERN Stack**, **React**, **Python (ML/NLP)**, and **modern frontend frameworks**.  
-🧘‍♂️ Currently building **BhookhNest**, a full-stack MERN app for food ordering and delivery.  
-🧠 Research interest in **Depression Detection using NLP and Transformer models**.  
-🎯 I focus on clean architecture, elegant UI, and impactful digital experiences.  
-📚 Always exploring new technologies — from React ecosystems to transformer-based AI models.  
+💼 **Java Full Stack Developer** at **VideoGate Technologies Pvt. Ltd.** — 1 year building production web applications.  
+🎥 Built our product's **live-streaming feature end to end**, from the backend services to the player screens.  
+🔔 Built the product's **notification system**, delivering alerts to users across the platform.  
+☕ Day to day I work with **Java**, **Spring Boot**, **Angular**, and **SQL**, from REST APIs to the screens that use them.  
+🛰️ Side project: **[Lampwatch](https://github.com/arpitk007/lampwatch)**, an uptime monitor with public status pages (Spring Boot + Angular).  
+🧠 Before that: **MERN** apps and an **NLP research project** on depression detection with transformer models.  
+🎯 I care about clean architecture, readable code, and interfaces that explain themselves.  
 
 ---
 
 ### 🧰 Tech Stack  
 
 #### 💻 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,11 +28,14 @@
 ![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 #### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🧠 Machine Learning / AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -38,6 +44,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### 🧰 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -50,6 +57,14 @@
 ---
 
 ### 🧩 Featured Projects  
+
+#### 🛰️ [Lampwatch – Uptime Monitor & Status Pages](https://github.com/arpitk007/lampwatch)
+> Watches websites and APIs, alerts by email or Telegram when they go down, and publishes a public status page.  
+⏱️ Scheduled HTTP checks, outage detection, response-time history, and 30-day uptime.  
+🔔 Alert channels with delivery tracking, so a silent alert is visible instead of lost.  
+⚙️ Stack: **Java 17**, **Spring Boot**, **Angular**, **MySQL**, **Redis**, **Docker**, **Caddy**.  
+
+---
 
 #### 🍔 [BhookhNest – MERN Stack Food Ordering Platform]
 > A full-stack food ordering web app built with the **MERN stack**.  
@@ -98,9 +113,9 @@
 ---
 
 ### 🧠 Currently Exploring  
-- Advanced **MERN stack optimization** (state management & backend scaling)  
-- **Prompt Engineering & Transformer Fine-tuning**  
-- **Full-stack DevOps pipelines** for CI/CD deployment  
+- **Spring Boot** performance: caching with Redis, scheduling, and load testing  
+- **Angular signals** and modern standalone-component apps  
+- **Docker & CI/CD** for deploying full-stack apps to the cloud  
 
 ---
 
